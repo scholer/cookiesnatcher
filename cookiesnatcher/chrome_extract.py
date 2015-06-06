@@ -23,7 +23,8 @@ This library is based on code from https://github.com/scholer/Mediawiker.
 
 References and other projects:
 * https://gist.github.com/jordan-wright/5770442
-
+* https://github.com/jdallien/cookie_extractor
+* Search github for "cookie" and "fetch" or "extract" or "hijack" or ...
 
 Platform-specific implementations:
 * Windows:      Uses win32crypt module.
